@@ -1,0 +1,13 @@
+gradio
+torch
+transformers
+accelerate
+bitsandbytes
+einops
+chromadb
+langchain-text-splitters
+sentence-transformers
+PyMuPDF
+pytesseract
+Pillow
+pandas
